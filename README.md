@@ -1,1 +1,1 @@
-# JPE-to-PNG-Converter
+# JPG-to-PNG-Converter
